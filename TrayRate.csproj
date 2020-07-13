@@ -30,11 +30,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ImGeneralPluginEngine.Abstractions, Version=1.0.11.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>$(SolutionDir)..\packages\ImGeneralPluginEngine.Abstractions.1.0.11\lib\net461\ImGeneralPluginEngine.Abstractions.dll</HintPath>
+    <Reference Include="ImGeneralPluginEngine.Abstractions, Version=1.0.12.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\ImGeneralPluginEngine.Abstractions.1.0.12\lib\net461\ImGeneralPluginEngine.Abstractions.dll</HintPath>
     </Reference>
-    <Reference Include="NeonScripting, Version=13.0.32.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>$(SolutionDir)..\packages\NeonScripting.13.0.32\lib\net461\NeonScripting.dll</HintPath>
+    <Reference Include="NeonScripting, Version=13.0.35.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\NeonScripting.13.0.35\lib\net461\NeonScripting.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>$(SolutionDir)..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>

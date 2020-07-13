@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 using ImGeneralPluginEngine;
+using ImGeneralPluginEngine.Abstractions;
 using NeonScripting;
+using NeonScripting.Models;
 
 namespace TrayRate
 {
@@ -23,7 +25,7 @@ namespace TrayRate
             BuildMenu();
         }
 
-        public void OnEvent(NeonEventTypes eventType)
+        public void OnEvent(NeonScriptEventTypes eventType)
         {
         }
 
